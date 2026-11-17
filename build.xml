@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- NetBeans Ant 專案入口：實際建置步驟由 nbproject/build-impl.xml 提供（NetBeans 開啟專案時會自動產生） -->
+<project name="MazeExplorer" default="default" basedir=".">
+    <description>Builds, tests, and runs the project MazeExplorer.</description>
+    <import file="nbproject/build-impl.xml"/>
+</project>
